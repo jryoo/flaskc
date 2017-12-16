@@ -1,2 +1,2 @@
-# flaskr
+# flaskc
 playing around with flask
