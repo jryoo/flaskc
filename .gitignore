@@ -8,10 +8,7 @@ __pycache__/
 # Distribution / packaging
 .Python
 env/
-<<<<<<< HEAD
-=======
 venv/
->>>>>>> databases
 bin/
 build/
 develop-eggs/
